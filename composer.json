@@ -1,0 +1,19 @@
+{
+    "name": "nfservice/jetsales",
+    "description": "Biblioteca base para comunicaçao com a API do JetSales",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Almeida",
+            "email": "diego.feres82@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NFService\\JetSales\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
